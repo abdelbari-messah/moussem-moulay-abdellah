@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QR Code Generator - Moussem App Download</title>
+    <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f8f9fa;
+      }
+      .container {
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+      .qr-container {
+        margin: 20px 0;
+        padding: 20px;
+        border: 2px dashed #a88a7b;
+        border-radius: 10px;
+      }
+      #qr-canvas {
+        margin: 0 auto;
+        display: block;
+      }
+      .download-link {
+        background-color: #a88a7b;
+        color: white;
+        padding: 12px 24px;
+        text-decoration: none;
+        border-radius: 5px;
+        display: inline-block;
+        margin: 10px;
+        transition: background-color 0.3s;
+      }
+      .download-link:hover {
+        background-color: #967b6a;
+      }
+      .info-box {
+        background-color: #e7f3ff;
+        border-left: 4px solid #2196f3;
+        padding: 15px;
+        margin: 20px 0;
+        text-align: left;
+      }
+      .url-display {
+        background-color: #f1f1f1;
+        padding: 10px;
+        border-radius: 5px;
+        font-family: monospace;
+        word-break: break-all;
+        margin: 10px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🎉 Moussem App Download QR Code</h1>
+
+      <div class="info-box">
+        <h3>📱 How to use:</h3>
+        <ul>
+          <li>
+            <strong>QR Code:</strong> Users can scan this QR code with their
+            phone camera to automatically download the app
+          </li>
+          <li>
+            <strong>Direct Link:</strong> Share the URL below for direct
+            download
+          </li>
+          <li>
+            <strong>Auto Download:</strong> Both methods will automatically
+            start the APK download
+          </li>
+        </ul>
+      </div>
+
+      <h2>🔗 Direct Download URLs:</h2>
+
+      <h3>English:</h3>
+      <div class="url-display" id="url-en"></div>
+      <a href="#" id="link-en" class="download-link">Test English Link</a>
+
+      <h3>French:</h3>
+      <div class="url-display" id="url-fr"></div>
+      <a href="#" id="link-fr" class="download-link">Test French Link</a>
+
+      <h3>Arabic:</h3>
+      <div class="url-display" id="url-ar"></div>
+      <a href="#" id="link-ar" class="download-link">Test Arabic Link</a>
+
+      <h2>📱 QR Code (English Version):</h2>
+      <div class="qr-container">
+        <canvas id="qr-canvas"></canvas>
+        <p>
+          <em>Scan this QR code to download the Moussem app automatically</em>
+        </p>
+      </div>
+
+      <div class="info-box">
+        <h3>💡 Implementation Instructions:</h3>
+        <ol>
+          <li>Replace <code>your-domain.com</code> with your actual domain</li>
+          <li>
+            Place your APK file at
+            <code>/public/downloads/moussem-app.apk</code>
+          </li>
+          <li>Use these URLs in your promotional materials</li>
+          <li>Save the QR code image for print materials</li>
+        </ol>
+      </div>
+
+      <button onclick="downloadQR()" class="download-link">
+        💾 Download QR Code Image
+      </button>
+    </div>
+
+    <script>
+      // Replace with your actual domain
+      const DOMAIN = "your-domain.com";
+
+      // Generate URLs for different languages
+      const urls = {
+        en: `https://${DOMAIN}/en/download`,
+        fr: `https://${DOMAIN}/fr/download`,
+        ar: `https://${DOMAIN}/ar/download`,
+      };
+
+      // Display URLs
+      document.getElementById("url-en").textContent = urls.en;
+      document.getElementById("url-fr").textContent = urls.fr;
+      document.getElementById("url-ar").textContent = urls.ar;
+
+      // Set link hrefs
+      document.getElementById("link-en").href = urls.en;
+      document.getElementById("link-fr").href = urls.fr;
+      document.getElementById("link-ar").href = urls.ar;
+
+      // Generate QR Code
+      const canvas = document.getElementById("qr-canvas");
+      QRCode.toCanvas(
+        canvas,
+        urls.en,
+        {
+          width: 300,
+          margin: 2,
+          color: {
+            dark: "#000000",
+            light: "#FFFFFF",
+          },
+        },
+        function (error) {
+          if (error) console.error(error);
+          console.log("QR code generated successfully!");
+        }
+      );
+
+      // Function to download QR code as image
+      function downloadQR() {
+        const canvas = document.getElementById("qr-canvas");
+        const link = document.createElement("a");
+        link.download = "moussem-app-qr-code.png";
+        link.href = canvas.toDataURL();
+        link.click();
+      }
+
+      // Update URLs when domain is changed (for testing)
+      function updateDomain(newDomain) {
+        const urls = {
+          en: `https://${newDomain}/en/download`,
+          fr: `https://${newDomain}/fr/download`,
+          ar: `https://${newDomain}/ar/download`,
+        };
+
+        document.getElementById("url-en").textContent = urls.en;
+        document.getElementById("url-fr").textContent = urls.fr;
+        document.getElementById("url-ar").textContent = urls.ar;
+
+        // Regenerate QR code
+        QRCode.toCanvas(canvas, urls.en, {
+          width: 300,
+          margin: 2,
+          color: {
+            dark: "#000000",
+            light: "#FFFFFF",
+          },
+        });
+      }
+    </script>
+  </body>
+</html>

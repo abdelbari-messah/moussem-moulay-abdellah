@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&display=swap");
+
+.responsiveContainer {
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    gap: 5px;
+  }
+  
+  @media (max-width: 768px) {
+    .responsiveContainer {
+      font-size: 20px;
+    }
+  }
+
+  .locationItem img, .dateItem img {
+    height: 34px;
+    width: 34px;
+    margin-right: 10px;
+  }
+  .locationItemSecondOne img {
+    height: 32px;
+    width: 32px;
+    margin-right: 12px;
+    margin-left: 2px;
+  }
+  
+  @media (max-width: 768px) {
+    .locationItem img, .dateItem img {
+      height: 30px;
+      width: 30px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .locationItemSecondOne img {
+      height: 55px;
+      width: 55px;
+    }
+  }
+  

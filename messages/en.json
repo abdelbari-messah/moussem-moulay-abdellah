@@ -1,0 +1,715 @@
+{
+  "Header": {
+    "logoAlt": "Event Logo",
+    "navigation": {
+      "soon": "Soon",
+      "home": "Home",
+      "about": "About",
+      "schedule": {
+        "label": "Schedule",
+        "dropdown": {
+          "2024": "Schedule 2024",
+          "2025": "Schedule 2025"
+        }
+      },
+      "partners": "Partners",
+      "memories": {
+        "label": "Memories",
+        "dropdown": {
+          "2024": "Memories 2024",
+          "2025": "Memories 2025"
+        }
+      },
+      "others": {
+        "label": "Others",
+        "dropdown": {
+          "faq": "FAQ",
+          "contact": "Contact Us",
+          "blogs": "Blogs",
+          "artists": "Artists"
+        }
+      },
+      "language": {
+        "label": "Language",
+        "dropdown": {
+          "english": "English",
+          "french": "Français",
+          "arabic": "العربية"
+        }
+      },
+      "downloadApp": "Download App"
+    },
+    "mobileMenu": {
+      "contactButton": "Contact Us",
+      "contactInfo": {
+        "title": "Contact Info",
+        "phone": "+212 661-192597",
+        "email": "filat.distr@gmail.com"
+      },
+      "location": {
+        "title": "Our Address",
+        "address": "Commune Moulay Abdellah, El Jadida, Morocco"
+      },
+      "social": {
+        "title": "Social Networks"
+      }
+    },
+    "Download": {
+      "title": "Download Moussem App",
+      "description": "Your download should start automatically. If it doesn't, please use the manual download button below.",
+      "downloadStarting": "Download starting...",
+      "troubleshoot": "Having trouble? Try the manual download or return to homepage.",
+      "manualDownload": "Manual Download",
+      "backToHome": "Back to Home"
+    },
+    "socialIcons": {
+      "pinterest": "Pinterest",
+      "google": "Google",
+      "youtube": "YouTube",
+      "facebook": "Facebook"
+    }
+  },
+  "Countdown": {
+    "days": "DAYS",
+    "hours": "HOURS",
+    "minutes": "MINUTES",
+    "seconds": "SECONDS"
+  },
+  "HomePage": {
+    "section1": {
+      "subtitle": "A living heritage between spirituality, traditions and popular celebration",
+      "title": {
+        "item_1": "Moussem Moulay ",
+        "item_2": "Abdellah Amghar ",
+        "item_3": "Edition 2025"
+      },
+      "location": {
+        "text": "Commune Moulay Abdellah, El Jadida",
+        "iconAlt": "Location icon"
+      },
+      "date": {
+        "text": "August 08 - 16, 2025",
+        "iconAlt": "Calendar icon"
+      },
+      "buttons": {
+        "schedule": "Schedule",
+        "about": "About the Event"
+      },
+      "boxSection": {
+        "item_1": "At the heart of the largest Moroccan Moussem",
+        "item_2": "For centuries, the Moussem has brought together millions of visitors around spiritual rituals, fantasia, falconry and family celebrations."
+      }
+    },
+    "section2": {
+      "buyTicket": "About",
+      "title": "National celebration",
+      "subtitle": "An extraordinary event at the heart of Moroccan tradition",
+      "description": "Every summer, the village of Moulay Abdellah becomes the stage for a unique gathering: the Moussem Moulay Abdellah Amghar, recognized as the largest Moussem in the Kingdom and one of the most important in the Arab-Muslim world",
+      "kpis": {
+        "item_1": "VISITOR",
+        "item_2": "TENT",
+        "item_3": "HORSE",
+        "item_4": "HERD"
+      },
+      "buttonText": "Become a Sponsor"
+    },
+    "section4": {
+      "title": "Organizers",
+      "subtitle": "An organization driven by passion and duty.",
+      "organizers": {
+        "item_1": "Filat Distribution",
+        "item_2": "El Jadida Regional Council",
+        "item_3": "Commune Moulay Abdellah",
+        "item_4": "El Jadida Scientific Council"
+      }
+    },
+    "section6": {
+      "title": "Photo Gallery",
+      "heading": "Captured memories, shared emotions",
+      "slides": {
+        "item_1": {
+          "eventYear": "Event 2024",
+          "eventType": "Moussem 2024"
+        },
+        "item_2": {
+          "eventYear": "Event 2024",
+          "eventType": "Moussem 2024"
+        },
+        "item_3": {
+          "eventYear": "Event 2024",
+          "eventType": "Moussem 2024"
+        },
+        "item_4": {
+          "eventYear": "Event 2024",
+          "eventType": "Moussem 2024"
+        },
+        "item_5": {
+          "eventYear": "Event 2024",
+          "eventType": "Moussem 2024"
+        }
+      }
+    },
+    "section7": {
+      "title": "General Sponsors",
+      "subtitle": "Our Official Sponsors"
+    },
+    "section8": {
+      "title": "Schedule & Activities",
+      "subtitle": "Spiritual values, Tribal cohesion, and Popular cultural expression",
+      "readMore": "Read More",
+      "programs": {
+        "dateRange": "August 08 - 16, 2025",
+        "religious": {
+          "title": "Religious Program"
+        },
+        "artistic": {
+          "title": "Artistic Program"
+        },
+        "tbourida": {
+          "title": "Tbourida Program"
+        }
+      }
+    },
+    "section9": {
+      "buttonText": "About the Event",
+      "dateAndTime": "August 08 - 16, 2025",
+      "location": "Commune Moulay Abdellah, El Jadida"
+    }
+  },
+  "AboutPage": {
+    "section1": {
+      "title": "About the Event",
+      "subtitle_1": "Home",
+      "subtitle_2": "About"
+    },
+    "section2": {
+      "title": "Heritage & Identity",
+      "subtitle": "A living heritage between spirituality, traditions and popular celebration",
+      "description": "The Moussem Moulay Abdellah Amghar is a centuries-old celebration deeply rooted in the history and soul of the Kingdom. Every year, millions of Moroccans - coming from all regions and abroad - gather to honor Moulay Abdellah Amghar, an emblematic spiritual figure whose teaching continues to inspire devotion and unity. This great gathering, much more than a simple pilgrimage, is a vibrant celebration of Moroccan culture, where spirituality and popular traditions blend harmoniously. Visitors discover a profusion of ancestral rituals, enchanting Sufi chants, and folk dances that tell the story of a people proud of their roots."
+    },
+    "section3": {
+      "title": "Sponsors & Partners",
+      "subtitle": "Essential allies for each edition."
+    },
+    "section4": {
+      "title": "Our Artists",
+      "subtitle": "Artists Discovered Last Year"
+    },
+    "section5": {
+      "title": "Celebration & Gathering",
+      "subtitle": "A moment of sharing for all generations",
+      "description": "In a warm and friendly atmosphere, the Moussem brings together families, friends, tradition enthusiasts and curious visitors. The program includes: religious rituals, tbourida, popular shows, falconry, local crafts and lively markets. It's a suspended moment where spirituality, heritage and popular celebration meet."
+    },
+    "section6": {
+      "title": "Territory & Influence",
+      "subtitle": "An event serving cultural and local development",
+      "description": "Beyond its symbolic scope, the Moussem plays a major role in enhancing the territory and stimulating the local economy. It mobilizes hundreds of actors - artisans, artists, traders, riders, associations - and contributes to showcasing Moroccan culture in all its diversity. It is also an exceptional showcase to preserve know-how and pass on traditions to younger generations."
+    }
+  },
+  "PartnersPage": {
+    "section1": {
+      "title": "Our Partners",
+      "subtitle_1": "Home",
+      "subtitle_2": "Partners"
+    },
+    "section2": {
+      "generalSponsors": "General Sponsors",
+      "majorSponsors": "Major Sponsors",
+      "officialSponsors": "Official Sponsors",
+      "diamondSponsors": "Diamond Sponsors",
+      "goldSponsors": "Gold Sponsors",
+      "mediaPartners": "Media Partners",
+      "officialPartners": "Official Partners"
+    }
+  },
+  "Schedule2024Page": {
+    "section1": {
+      "title": "Schedule 2024",
+      "subtitle_1": "Home",
+      "subtitle_2": "Schedule"
+    },
+    "section2": {
+      "days": {
+        "day1": "Day 1",
+        "day2": "Day 2",
+        "day3": "Day 3",
+        "day4": "Day 4",
+        "day5": "Day 5",
+        "day6": "Day 6",
+        "day7": "Day 7",
+        "day8": "Day 8",
+        "day9": "Day 9",
+        "day10": "Day 10",
+        "day11": "Day 11"
+      },
+      "programTypes": {
+        "religious": "Religious Program",
+        "artistic": "Artistic Program",
+        "tbourida": "Tbourida and Falconry Program"
+      },
+      "programs": {
+        "day1": {
+          "religious": {
+            "religious1": "Great evening of complete Quran recitation (Salka) at Moulay Abdellah mosque at 9:30 PM.",
+            "religious2": "Evening of Prophet's invocation in traditional Moroccan style"
+          }
+        },
+        "day2": {
+          "religious": {
+            "religious1": "Collective Quran recitation and prophetic invocations before Jumu'ah prayer.",
+            "religious2": "Jumu'ah prayer at Moulay Abdellah Amghar mosque.",
+            "religious3": "Religious speech after Maghrib prayer",
+            "religious4": "Samaa and Madih evening on the main stage"
+          },
+          "artistic": {
+            "artistic1": "Samaa and Madih group Lhaj Nassiri Dalal",
+            "artistic2": "Association of Joys for Sufi Music and Praises",
+            "artistic3": "Prophetic in El Jadida (Tisa Association)",
+            "artistic4": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Riders registration"
+          }
+        },
+        "day3": {
+          "religious": {
+            "religious1": "Religious speech for women before Asr prayer",
+            "religious2": "Religious speech for men after Maghrib prayer",
+            "religious3": "Samaa and Madih evening on the main stage."
+          },
+          "artistic": {
+            "artistic1": "Said Berrada group",
+            "artistic2": "Abi Chouaib Ayoub Association",
+            "artistic3": "Assaria of Samaa and Madih from Azemmour (Mohammed Lehench)",
+            "artistic4": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day4": {
+          "religious": {
+            "religious1": "Religious speech for women before Asr prayer",
+            "religious2": "Religious speech after Asr prayer",
+            "religious3": "Religious speech after Maghrib prayer",
+            "religious4": "Samaa and Madih evening on the main stage"
+          },
+          "artistic": {
+            "artistic1": "Taifat Sheikh El Kamel Group",
+            "artistic2": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day5": {
+          "religious": {
+            "religious1": "Main opening of religious activities",
+            "religious2": "Religious speech for women before Asr prayer",
+            "religious3": "Scientific conference after Asr prayer",
+            "religious4": "Religious speech after Maghrib prayer"
+          },
+          "artistic": {
+            "artistic1": "Ahwach Aawed Tiznit Association",
+            "artistic2": "Abidat Rma (Khouribga)",
+            "artistic3": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day6": {
+          "religious": {
+            "religious1": "Distribution of royal gifts",
+            "religious2": "Religious speech before Asr prayer",
+            "religious3": "Religious speech before Maghrib prayer",
+            "religious4": "Religious recognition ceremony, including the imam, the oldest muezzin in the region"
+          },
+          "artistic": {
+            "artistic1": "Youssef Elmelasse",
+            "artistic2": "Jil Alaita (EL JADIDA)",
+            "artistic3": "Walid Errahmani",
+            "artistic4": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day7": {
+          "religious": {
+            "religious1": "Distribution of royal gifts",
+            "religious2": "Scientific conference after Asr prayer",
+            "religious3": "Religious speech after Asr prayer"
+          },
+          "artistic": {
+            "artistic1": "Aziz Elhaloui Orchestra",
+            "artistic2": "Adil El Madkouri",
+            "artistic3": "Abdellah Daoudi",
+            "artistic4": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day8": {
+          "religious": {
+            "religious1": "Religious speech before Asr prayer",
+            "religious2": "Scientific conference after Asr prayer"
+          },
+          "artistic": {
+            "artistic1": "Abdellah Lmghari",
+            "artistic2": "Ikram El filalia",
+            "artistic3": "Abdelaziz Stati",
+            "artistic4": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day9": {
+          "religious": {
+            "religious1": "Religious speech after Asr prayer",
+            "religious2": "Quranic evening animated by children who completed Quran reading in the region, with rewards distribution",
+            "religious3": "Individual Quran readings between the two evening prayers"
+          },
+          "artistic": {
+            "artistic1": "Wald Touil",
+            "artistic2": "Idriss El Bouazzaoui",
+            "artistic3": "Bader Ouaabi",
+            "artistic4": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day10": {
+          "religious": {
+            "religious1": "Religious speech after Asr prayer",
+            "religious2": "Religious speech before Asr prayer",
+            "religious3": "Prophetic praises between the two evening prayers"
+          },
+          "artistic": {
+            "artistic1": "Hamid Essarghini",
+            "artistic2": "Ahmed EL Mahfoudi",
+            "artistic3": "Said Wald El Houate",
+            "artistic4": "Amine El Iraki (HOST)"
+          },
+          "tbourida": {
+            "tbourida1": "Tbourida and falconry show from 4:00 PM to 9:00 PM"
+          }
+        },
+        "day11": {
+          "religious": {
+            "religious1": "Quran reading in Moulay Abdeallah Amghar mosque between the two evening prayers.",
+            "religious2": "Prophetic praises in the old Moroccan style Dikr The Name of Allah Alatif."
+          },
+          "tbourida": {
+            "tbourida1": "Official closing ceremony starting at 4:00 PM"
+          }
+        }
+      },
+      "dates": {
+        "program": "Program",
+        "aug8": "Thursday August 8, 2024",
+        "aug9": "Friday August 9, 2024",
+        "aug10": "Saturday August 10, 2024",
+        "aug11": "Sunday August 11, 2024",
+        "aug12": "Monday August 12, 2024",
+        "aug13": "Tuesday August 13, 2024",
+        "aug14": "Wednesday August 14, 2024",
+        "aug15": "Thursday August 15, 2024",
+        "aug16": "Friday August 16, 2024",
+        "aug17": "Saturday August 17, 2024",
+        "aug18": "Sunday August 18, 2024"
+      },
+      "months": {
+        "aug": "AUG"
+      }
+    }
+  },
+  "schedule2025Page": {
+    "title": "Schedule 2025",
+    "subtitle": "This schedule will be updated soon",
+    "section1": {
+      "title": "Schedule 2025",
+      "subtitle_1": "Home",
+      "subtitle_2": "Schedule"
+    }
+  },
+  "memories2024Page": {
+    "section1": {
+      "title": "Memories 2024",
+      "subtitle_1": "Home",
+      "subtitle_2": "Memories"
+    },
+    "section2": {
+      "title": "Memories of the Year 2024",
+      "subtitle": "Moussem 2024",
+      "subtitle_2": "Moussem 2024"
+    }
+  },
+  "memories2025Page": {
+    "title": "Memories 2025",
+    "subtitle": "These memories will be updated soon",
+    "section1": {
+      "title": "Memories 2025",
+      "subtitle_1": "Home",
+      "subtitle_2": "Memories"
+    }
+  },
+  "FaqPage": {
+    "section1": {
+      "title": "Frequently Asked Questions",
+      "subtitle_1": "Home",
+      "subtitle_2": "FAQ"
+    },
+    "section2": {
+      "title": "Frequently Asked Questions (FAQ)",
+      "question_1": "Where does the Moussem take place?",
+      "question_2": "What are the dates of the next edition?",
+      "question_3": "Is access to the Moussem paid?",
+      "question_4": "How to get there?",
+      "question_5": "Can we come with family?",
+      "question_6": "At what time do the Tbourida shows take place?",
+      "question_7": "Are there accommodations on site?",
+      "question_8": "Can we buy food on site?",
+      "question_9": "Where to consult the complete program?",
+      "question_10": "How to participate as an exhibitor, sponsor or rider?",
+      "answer_1": "The Moussem takes place in the commune of Moulay Abdellah, about ten kilometers south of El Jadida, on the Atlantic coast of Morocco.",
+      "answer_2": "The 2024 edition will take place from August 9 to 18, according to the calendar announced by the organizers.",
+      "answer_3": "No, access to the Moussem site is completely free for the public.",
+      "answer_4": "Shared taxis and buses regularly serve the area from El Jadida. A parking lot is usually provided for private vehicles.",
+      "answer_5": "Yes, the Moussem is open to all audiences, with spaces and activities adapted for children and families.",
+      "answer_6": "The fantasia (Tbourida) demonstrations take place daily, usually from late morning until sunset.",
+      "answer_7": "Most visitors stay in El Jadida or nearby. Temporary accommodations are sometimes available near the Moussem.",
+      "answer_8": "Yes, many stands and restaurateurs offer traditional dishes, grilled food, drinks and local sweets.",
+      "answer_9": "The program is published in advance of the event on the official website and relayed on our social networks.",
+      "answer_10": "You can contact the organization directly via the Contact page to submit a participation or partnership request"
+    }
+  },
+  "ContactPage": {
+    "section1": {
+      "title": "Contact Us",
+      "subtitle_1": "Home",
+      "subtitle_2": "Contact Us"
+    },
+    "section2": {
+      "head": "Contact Us",
+      "subHead": "We're here to help you",
+      "title": "Contact us now",
+      "buttonText": "Send Now"
+    },
+    "section3": {
+      "title": "Find us on the map",
+      "subtitle": "Our location"
+    },
+    "section4": {
+      "title": "Become a Sponsor",
+      "emailTitle": "Our email",
+      "locationTitle": "TIKTOK",
+      "phoneTitle": "Phone/Message"
+    }
+  },
+  "BlogsPage": {
+    "section1": {
+      "title": "Blogs",
+      "subtitle_1": "Home",
+      "subtitle_2": "Blogs"
+    },
+    "section2": {
+      "title": "Blog List",
+      "subtitle": "Blogs"
+    }
+  },
+  "BlogDetailsPage": {
+    "section1": {
+      "title": "Blog Details",
+      "subtitle_1": "Home",
+      "subtitle_2": "Blog Details"
+    },
+    "blogs": {
+      "readMore": "Read More",
+      "social": "Social Share",
+      "tags": "Tags",
+      "blog_1": {
+        "id": "1",
+        "title": "Tbourida",
+        "subtitle": "heritage in full detonation",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "The art of collective shooting",
+        "paragraph1_content": "Every year, at the heart of the Moulay Abdellah Amghar Moussem, the earth vibrates under hooves, dust rises, and hearts suspend for a single second: that of the perfect detonation. More than a simple equestrian demonstration, Tbourida is a codified art, rooted in Moroccan warrior traditions. It embodies tribal honor, collective discipline, and the memory of ancestors. Each sorba, a troop of horsemen, executes with millimetric precision a choreography of power: starting in line, synchronized running, then simultaneous firing of artisanal rifles. Error is not permitted. Unison is a duty.",
+        "paragraph2_title": "A tradition of rigor and honor",
+        "paragraph2_content": "The riders wear bright white outfits, ride horses decorated with embroidered ornaments, and follow the orders of the moqaddem, their leader. Their gestures are slow, controlled, almost sacred. Each demonstration is the result of months of training, respect for the horse, preparation of the rifle. Through Tbourida, a part of rural Morocco's soul expresses itself: that of an oral, gestural, intergenerational transmission. It connects the young to the elders, regions to tribes, the living to the departed.",
+        "paragraph3_title": "A living memory recognized",
+        "paragraph3_content": "Listed as UNESCO intangible cultural heritage, Tbourida is experiencing a new momentum today, supported by institutions while remaining deeply popular. At the Moussem, it doesn't just impress: it moves people. Because behind the dust and crash, there is the pride of a people who continue to gallop to the rhythms of their roots",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      },
+      "blog_2": {
+        "id": "2",
+        "title": "Living Spirituality",
+        "subtitle": "the sacred heart of the Moussem",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "A place of contemplation and faith",
+        "paragraph1_content": "While the Moulay Abdellah Amghar Moussem impresses with its cultural effervescence, it primarily draws its essence from a profound spiritual dimension. Each year, thousands of faithful flock to Moulay Abdellah's mausoleum to pay homage, recite prayers, and meditate in silence. In this sacred space, fervor replaces noise: visitors, young or old, reconnect with their faith in a climate of peace and dignity.",
+        "paragraph2_title": "A structured and vibrant religious program",
+        "paragraph2_content": "The spiritual program of the Moussem follows a structured sequence: Sufi vigils, collective readings of the Quran, religious conferences, shared invocations and blessings. These moments of communion remind us that Moroccan spirituality is made up of both ritual and human presence.",
+        "paragraph3_title": "An anchor in faith and community",
+        "paragraph3_content": "Well beyond the ceremonial aspects, the religious program of the Moussem acts as an anchor point for the community. It connects believers around common values: inner peace, generosity, brotherhood. Through the stories of Moulay Abdellah, a figure of wisdom and knowledge, visitors leave with more than memories: a renewed connection with their spiritual identity.",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      },
+      "blog_3": {
+        "id": "3",
+        "title": "Festive Stages",
+        "subtitle": "the artistic breath of the Moussem",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "A rendezvous with the sounds of Morocco",
+        "paragraph1_content": "From sunset, another atmosphere takes over the Moussem: that of rhythms, voices, and melodies. On the large stages set up in the open air, artists from all over the country take over from horsemen and falconers. Popular songs, collective dances, tribal percussions... the Moussem then becomes an immense open-air stage, vibrant with sounds and lights.",
+        "paragraph2_title": "A program between tradition and modernity",
+        "paragraph2_content": "The artistic program of the Moussem offers remarkable diversity: chaâbi music concerts, gnaoua troupes, aïta songs, Amazigh ahwach, malhoun, or even Halqa dance succeed each other every evening. These shows are free, open to all, and attract both families and younger generations. By valuing both big names and local artists, the Moussem becomes a space for the living transmission of Moroccan musical heritage",
+        "paragraph3_title": "A culture that gives and shares",
+        "paragraph3_content": "Beyond entertainment, these evenings have a unifying role. They allow each region to showcase its colors and sounds, while creating a friendly atmosphere where people dance, sing, and celebrate together. This popular, open, and inclusive stage reflects a plural Morocco, rooted and in movement. A Morocco where music is not a simple backdrop, but a common language.",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      },
+      "blog_4": {
+        "id": "4",
+        "title": "Tbourida & Falconry",
+        "subtitle": "the two faces of bravery",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "The earth trembles, the rifles sing",
+        "paragraph1_content": "Every morning at the Moussem, the vast plains of Moulay Abdellah become the theater of Tbourida. In perfect line, the horsemen rush at full speed, swords raised, eyes fixed. Then, in a synchronized breath, the rifles thunder in unison. This is not a show: it's a declaration of identity, a warrior choreography transmitted by blood and memory. Each sorba embodies the honor of its tribe, the elegance of its culture, the mastery of an art where error has no place.",
+        "paragraph2_title": "The sky also has its masters",
+        "paragraph2_content": "Not far from the fantasia fields, silence settles: that of falcon hunting. Here, bravery is not shouted, it is observed. The falconers of the Abda tribe raise and train these raptors with patience and respect. In their measured gestures, their attentive gaze, one reads an ancient knowledge, made of complicity between man and bird. Falconry, rare and precious, is a noble discipline, an ancestral art where mastery comes through restraint.",
+        "paragraph3_title": "Two traditions, one same pride",
+        "paragraph3_content": "At first glance, everything seems to oppose the ardor of Tbourida and the serenity of falconry. And yet, both tell the same story: that of a rooted people, proud of their customs, capable of making the earth vibrate as well as taming the sky. Together, they form a symbolic duo, which makes the Moussem a unique place in the world where the most beautiful forms of tribal bravery are expressed, on two terrains: the ground, and the infinite",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      },
+      "blog_5": {
+        "id": "5",
+        "title": "The Halqa",
+        "subtitle": "the living circle of memory",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "When speech becomes spectacle",
+        "paragraph1_content": "At the turn of a square or in the shade of a tent, a circle forms. Children settle in front, elders in the back, passersby stop, curious. In the center, a lone man, without scenery or microphone, captures all attention. This is the hlayqi, the master of words. The Halqa, an ancestral form of popular theater, transforms public space into a living stage. Historical tales, fantastic stories, social critiques, or satirical songs: here, everything passes through the word.",
+        "paragraph2_title": "An art of rhythm and gaze",
+        "paragraph2_content": "The secret of the Halqa lies not only in the story but in the way it is told. Voice that climbs and descends, broad gestures, dramatic pauses, knowing looks: every moment is meticulous. The artist improvises with his audience, plays with their reactions, bounces off a word or a laugh. It is an art of pure orality, where memory and spontaneity are the only instruments. Through the Halqa, it is an entire way of observing the world that is transmitted.",
+        "paragraph3_title": "A collective memory in motion",
+        "paragraph3_content": "At the Moulay Abdellah Moussem, the Halqa is not just entertainment, it's a tool for popular transmission. The stories told carry life lessons, cultural reference points, values of justice or solidarity. By making people laugh or reflect, they help keep entire generations of stories and identities alive. The circle remains open... so that memory continues to turn.",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      },
+      "blog_6": {
+        "id": "6",
+        "title": "Flavors of the Moussem",
+        "subtitle": "when tradition is savored",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "An atmosphere that begins on the plate",
+        "paragraph1_content": "At the Moulay Abdellah Moussem, aromas sometimes precede the shows. In every alley, around the tents and at the heart of the grand souk, the smells of grilled meat, warm spices, and freshly baked bread float in the air. Gastronomy is not accessory: it is an integral part of the experience. Eating here means immersing oneself in a terroir, a heritage, a Moroccan way of life.",
+        "paragraph2_title": "Simple dishes, ancestral gestures",
+        "paragraph2_content": "One savors a crispy msemen, a bowl of steaming harira, a tender mechoui, or even a mint tea served high, with a smile. The recipes are passed down between generations, the dishes prepared on site, sometimes right on the ground. No menu or card: everything is instinctive, oral, living. Behind each dish lies regional expertise, a cooking rhythm, a precise hand.",
+        "paragraph3_title": "Sharing to better celebrate",
+        "paragraph3_content": "Here, one never eats alone. Food brings together, unites, creates exchange between visitors. It is an extension of the Moussem in its most intimate form: sharing. Through gastronomy, these are stories of families, seasons, tribes, and millennial gestures that are told. A tradition that one does not watch, but tastes, together",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      },
+      "blog_7": {
+        "id": "7",
+        "title": "Development Catalyst",
+        "subtitle": "The Moussem, a catalyst for local development",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "When tradition becomes an economic lever",
+        "paragraph1_content": "The Moulay Abdellah Moussem is not just a festive event: it is also a powerful engine for local revitalization. Each edition attracts millions of visitors, generating a massive influx of consumption in the commune and its surroundings. Transporters, restaurateurs, artisans, accommodations: all see their activity multiplied. The event acts as an accelerator of opportunities for small local businesses.",
+        "paragraph2_title": "A structuring anchor for territories",
+        "paragraph2_content": "Around the Moussem, a whole informal and circular economy activates. Young people set up stands, cooperatives exhibit their products, families rent spaces, and even neighboring communes benefit from indirect spinoffs. The event creates connections, circulation, and resources. It also stimulates pride of belonging to the territory, which strengthens local social capital.",
+        "paragraph3_title": "A strategic showcase for the region",
+        "paragraph3_content": "Thanks to its national reputation and the media coverage it generates, the Moussem plays a key role in the visibility of the El Jadida province and the Doukkala region. It attracts investors, decision-makers, journalists, and tourists, while offering a valued narrative framework: authenticity, tradition, hospitality, potential. The Moussem thus becomes an identity platform, serving territorial development",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      },
+      "blog_8": {
+        "id": "8",
+        "title": "Craftsmanship & Know-how",
+        "subtitle": "the other wealth of the Moussem",
+        "date": "Jan 26, 2025",
+        "author": "Gisselle",
+        "paragraph1_title": "The souk, a space of creativity and heritage",
+        "paragraph1_content": "At the heart of the Moussem, the traditional grand souk becomes a living gallery of what the region produces most authentically: Berber weavings, pottery, jewelry, musical instruments, local products. This is not a classic commercial fair, it's a space for showcasing manual knowledge, where each object tells of an origin, a technique, a family.",
+        "paragraph2_title": "Artisans in the spotlight, territories in the light",
+        "paragraph2_content": "For many artisans, exhibiting at the Moussem is a rare chance: that of confronting their know-how with a national audience, selling without intermediaries, and establishing direct commercial relationships. The Moussem then becomes a unique marketing stage, which strengthens rural microeconomies while disseminating products rooted in local culture.",
+        "paragraph3_title": "An economic identity to activate",
+        "paragraph3_content": "This craftsmanship should not only be seen as decorative or folkloric: it is a vector of sustainable development, a pillar of the social economy, and a central element of the territory's brand image. By focusing on this know-how, the region asserts a strong, creative, and authentic identity — ready to seduce well beyond its borders",
+        "tags": {
+          "tag1": "#Moussem Moulay Abdellah",
+          "tag2": "#Tbourida"
+        }
+      }
+    }
+  },
+  "ArtistsPage": {
+    "section1": {
+      "title": "Artists",
+      "subtitle_1": "Home",
+      "subtitle_2": "Artists"
+    }
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "heading": "Oops! Page Not Found",
+    "description": "The page you’re looking for doesn’t exist or has been moved. Try going back to the homepage or contact support if the problem persists.",
+    "goBack": "Go Back",
+    "returnHome": "Return Home"
+  },
+  "Footer": {
+    "logoAlt": "Moussem Moulay Abdellah Amghar Logo",
+    "description": "2025 Edition of the Moussem Moulay Abdellah Amghar.",
+    "socialLinks": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "pinterest": "Pinterest"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "aboutUs": "About the Event",
+      "partners": "Partners",
+      "schedule": "2024 Schedule",
+      "memories": "2024 Memories",
+      "contactUs": "Contact Us"
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "phone": "212 661-192597",
+      "location": "Moulay Abdellah Commune in El Jadida",
+      "email": "filat.distr@gmail.com",
+      "website": "moussemmoulayabdellah.com"
+    },
+    "gallery": {
+      "title": "Recent Moussem Gallery"
+    },
+    "copyrightText": "Moussem Moulay Abdellah Amghar"
+  }
+}

@@ -1,0 +1,35 @@
+/* RTL styles for Arabic language - Mobile Menu */
+*[dir="rtl"] span.submenu-button:after, 
+*[dir="rtl"] span.submenu-button:before {
+    right: auto;
+    left: 9px;
+}
+
+*[dir="rtl"] span.submenu-button:before {
+    left: 0px;
+}
+
+*[dir="rtl"] .sub-menu {
+    padding-left: 0;
+    padding-right: 15px;
+}
+
+*[dir="rtl"] .mobile-sidebar .footer1-contact-info .contact-info-single .contact-info-text a {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+*[dir="rtl"] .mobile-sidebar .footer1-contact-info .social-links-mobile-menu ul li a {
+    margin: 0 0 0 6px;
+}
+
+/* Additional RTL styles for mobile sidebar variants */
+*[dir="rtl"] .mobile-sidebar .mobile-nav ul span.submenu-button:after, 
+*[dir="rtl"] .mobile-sidebar .mobile-nav ul span.submenu-button:before {
+    right: auto;
+    left: 9px;
+}
+
+*[dir="rtl"] .mobile-sidebar .mobile-nav ul span.submenu-button:before {
+    left: 0px;
+} 

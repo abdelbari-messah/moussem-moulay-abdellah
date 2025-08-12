@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Home page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Blog page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/blog" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Blog details page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/blog-details</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/blog-details" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/blog-details" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/blog-details" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Artists page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/artists</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/artists" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/artists" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/artists" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Partners page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/partners</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/partners" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/partners" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/partners" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Schedule 2024 page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/schedule2024</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/schedule2024" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/schedule2024" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/schedule2024" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Schedule 2025 page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/schedule2025</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/schedule2025" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/schedule2025" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/schedule2025" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Memories 2024 page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/memories2024</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/memories2024" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/memories2024" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/memories2024" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Memories 2025 page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/memories2025</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/memories2025" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/memories2025" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/memories2025" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/contact" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- FAQ page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/faq" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/faq" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- About page -->
+  <url>
+    <loc>https://moussem-moulay-abdellah.vercel.app/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moussem-moulay-abdellah.vercel.app/en/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://moussem-moulay-abdellah.vercel.app/fr/about" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://moussem-moulay-abdellah.vercel.app/ar/about" />
+    <lastmod>2024-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset> 
