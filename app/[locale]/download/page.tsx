@@ -2,6 +2,7 @@
 import { useEffect } from "react";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
+import { DOWNLOAD_CONFIG } from "@/config/download";
 
 export default function DownloadPage() {
   const t = useTranslations("Header.Download");
@@ -9,9 +10,16 @@ export default function DownloadPage() {
   useEffect(() => {
     // Auto-download the APK when the page loads
     const downloadAPK = () => {
+      const apkUrl = DOWNLOAD_CONFIG.APK_URL;
+      
+      // Use window.open for better compatibility with large files
+      window.open(apkUrl, "_blank");
+      
+      // Fallback to traditional download method
       const link = document.createElement("a");
-      link.href = "/downloads/moussem-app.apk";
-      link.download = "Moussem-Moulay-Abdellah-App.apk";
+      link.href = apkUrl;
+      link.download = DOWNLOAD_CONFIG.APK_FILENAME;
+      link.style.display = "none";
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
@@ -109,8 +117,8 @@ export default function DownloadPage() {
         </p>
 
         <a
-          href="/downloads/moussem-app.apk"
-          download="Moussem-Moulay-Abdellah-App.apk"
+          href={DOWNLOAD_CONFIG.APK_URL}
+          download={DOWNLOAD_CONFIG.APK_FILENAME}
           style={{
             backgroundColor: "#a88a7b",
             color: "white",
@@ -125,7 +133,7 @@ export default function DownloadPage() {
           }}
         >
           <i className="fa-solid fa-download"></i>
-          {t("manualDownload")}
+          {t("manualDownload")} ({DOWNLOAD_CONFIG.APK_SIZE_MB}MB)
         </a>
 
         <Link

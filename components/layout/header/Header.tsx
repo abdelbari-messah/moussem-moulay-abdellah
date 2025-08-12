@@ -1,5 +1,6 @@
 import { useLocale, useTranslations } from "next-intl";
 import Link from "next/link";
+import { DOWNLOAD_CONFIG } from "@/config/download";
 
 import { createLocalizedPath } from "@/i18n/navigation";
 import { usePathname } from "next/navigation";
@@ -212,8 +213,8 @@ export default function Header({
                       </li>
                       <li>
                         <a
-                          href="/downloads/moussem-app.apk"
-                          download="Moussem-Moulay-Abdellah-App.apk"
+                          href={DOWNLOAD_CONFIG.APK_URL}
+                          download={DOWNLOAD_CONFIG.APK_FILENAME}
                           className="download-app-btn"
                           style={{
                             backgroundColor: "#a88a7b",
