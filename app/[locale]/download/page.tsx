@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl";
 import Link from "next/link";
 
 export default function DownloadPage() {
-  const t = useTranslations("Download");
+  const t = useTranslations("Header.Download");
 
   useEffect(() => {
     // Auto-download the APK when the page loads

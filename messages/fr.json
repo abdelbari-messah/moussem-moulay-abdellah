@@ -1,19 +1,6 @@
 {
   "Header": {
     "logoAlt": "Logo de l'événement",
-    "social": {
-      "title": "Réseaux Sociaux"
-    }
-  },
-  "Download": {
-    "title": "Télécharger l'App Moussem",
-    "description": "Votre téléchargement devrait commencer automatiquement. Sinon, utilisez le bouton de téléchargement manuel ci-dessous.",
-    "downloadStarting": "Téléchargement en cours...",
-    "troubleshoot": "Problème? Essayez le téléchargement manuel ou retournez à l'accueil.",
-    "manualDownload": "Téléchargement Manuel",
-    "backToHome": "Retour à l'Accueil"
-  },
-  "socialIcons": {
     "navigation": {
       "soon": "Bientôt",
       "home": "Accueil",
@@ -81,6 +68,14 @@
       "youtube": "YouTube",
       "facebook": "Facebook"
     }
+  },
+  "Download": {
+    "title": "Télécharger l'App Moussem",
+    "description": "Votre téléchargement devrait commencer automatiquement. Sinon, utilisez le bouton de téléchargement manuel ci-dessous.",
+    "downloadStarting": "Téléchargement en cours...",
+    "troubleshoot": "Problème? Essayez le téléchargement manuel ou retournez à l'accueil.",
+    "manualDownload": "Téléchargement Manuel",
+    "backToHome": "Retour à l'Accueil"
   },
   "Countdown": {
     "days": "JOURS",
@@ -442,7 +437,12 @@
   },
   "schedule2025Page": {
     "title": "Programme 2025",
-    "subtitle": "Ce programme sera bientôt mis à jour"
+    "subtitle": "Ce programme sera bientôt mis à jour",
+    "section1": {
+      "title": "Programme 2025",
+      "subtitle_1": "Accueil",
+      "subtitle_2": "Programme"
+    }
   },
   "memories2024Page": {
     "section1": {

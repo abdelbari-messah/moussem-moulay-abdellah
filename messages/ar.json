@@ -225,7 +225,7 @@
   "Schedule2024Page": {
     "section1": {
       "title": "برنامج 2024",
-      "subtitle_1": "الاستقبال",
+      "subtitle_1": "الرئيسية",
       "subtitle_2": "البرنامج"
     },
     "section2": {
@@ -429,12 +429,17 @@
   },
   "schedule2025Page": {
     "title": "برنامج 2025",
-    "subtitle": "سيتم تحديث هذا البرنامج قريبا"
+    "subtitle": "سيتم تحديث هذا البرنامج قريبا",
+    "section1": {
+      "title": "برنامج 2025",
+      "subtitle_1": "الرئيسية",
+      "subtitle_2": "البرنامج"
+    }
   },
   "memories2024Page": {
     "section1": {
       "title": "ذكريات 2024",
-      "subtitle_1": "الاستقبال",
+      "subtitle_1": "الرئيسية",
       "subtitle_2": "الذكريات"
     },
     "section2": {
@@ -448,14 +453,14 @@
     "subtitle": "سيتم تحديث هذه الذكريات قريبا",
     "section1": {
       "title": "ذكريات 2025",
-      "subtitle_1": "الاستقبال",
+      "subtitle_1": "الرئيسية",
       "subtitle_2": "الذكريات"
     }
   },
   "FaqPage": {
     "section1": {
       "title": "الأسئلة المتداولة",
-      "subtitle_1": "الاستقبال",
+      "subtitle_1": "الرئيسية",
       "subtitle_2": "الأسئلة المتداولة"
     },
     "section2": {
@@ -485,7 +490,7 @@
   "ContactPage": {
     "section1": {
       "title": "اتصل بنا",
-      "subtitle_1": "الاستقبال",
+      "subtitle_1": "الرئيسية",
       "subtitle_2": "اتصل بنا"
     },
     "section2": {
@@ -508,7 +513,7 @@
   "BlogsPage": {
     "section1": {
       "title": "المقالات",
-      "subtitle_1": "الاستقبال",
+      "subtitle_1": "الرئيسية",
       "subtitle_2": "المقالات"
     },
     "section2": {
