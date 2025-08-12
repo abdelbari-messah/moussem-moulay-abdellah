@@ -48,10 +48,6 @@ web_modules/
 # TypeScript cache
 *.tsbuildinfo
 
-# APK files (too large for GitHub)
-public/downloads/*.apk
-*.apk
-
 # Optional npm cache directory
 .npm
 
