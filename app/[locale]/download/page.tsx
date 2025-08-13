@@ -11,10 +11,10 @@ export default function DownloadPage() {
     // Auto-download the APK when the page loads
     const downloadAPK = () => {
       const apkUrl = DOWNLOAD_CONFIG.APK_URL;
-      
+
       // Use window.open for better compatibility with large files
       window.open(apkUrl, "_blank");
-      
+
       // Fallback to traditional download method
       const link = document.createElement("a");
       link.href = apkUrl;
