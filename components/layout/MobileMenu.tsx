@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
 import { createLocalizedPath } from "@/i18n/navigation";
+import { DOWNLOAD_CONFIG } from "@/config/download";
 export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
   const [isAccordion, setIsAccordion] = useState(1);
 
@@ -272,15 +273,23 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 
           <div className="allmobilesection">
             <a
-              href="/downloads/moussem-app.apk"
-              download="Moussem-Moulay-Abdellah-App.apk"
+              href={DOWNLOAD_CONFIG.APK_URL}
+              download={DOWNLOAD_CONFIG.APK_FILENAME}
               className="vl-btn1"
               style={{
                 display: "flex",
                 alignItems: "center",
                 gap: "8px",
+                backgroundColor: "#a88a7b",
+                color: "white",
+                padding: "12px 16px",
+                borderRadius: "5px",
+                textDecoration: "none",
+                transition: "all 0.3s ease",
+                marginBottom: "12px",
               }}
             >
+              <i className="fa-solid fa-download"></i>
               {t("navigation.downloadApp")}
             </a>
 
