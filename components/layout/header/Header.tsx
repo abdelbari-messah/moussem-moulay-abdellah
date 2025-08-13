@@ -213,8 +213,8 @@ export default function Header({
                       </li>
                       <li>
                         <a
-                          href={DOWNLOAD_CONFIG.APK_URL}
-                          download={DOWNLOAD_CONFIG.APK_FILENAME}
+                          href="https://drive.google.com/uc?export=download&id=1y66QxFuL8Z7cvIeP4lEqL_14QGsFOG3o"
+                          download="YourApp.apk"
                           className="download-app-btn"
                           style={{
                             backgroundColor: "#a88a7b",
