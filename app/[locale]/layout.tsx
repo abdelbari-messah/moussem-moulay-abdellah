@@ -18,6 +18,7 @@ import type { Metadata } from "next";
 import { Figtree, Space_Grotesk } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { read } from "fs";
+import Script from "next/script";
 
 const figtree = Figtree({
   weight: ["300", "400", "500", "600", "700", "800", "900"],
@@ -118,13 +119,12 @@ export default function RootLayout({
       lang={params.locale}
       className={`${figtree.variable} ${grotesk.variable}`}
     >
-      <head>
-        <script
+      <body>
+        <Script
+          id="jsonld"
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </head>
-      <body>
         <NextIntlClientProvider locale={params.locale} messages={messages}>
           {children}
         </NextIntlClientProvider>
